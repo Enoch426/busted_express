@@ -1,7 +1,7 @@
 'use strict';
 
 const hostname = '127.0.0.1';
-const port = 3333;
+const port = 3000;
 
 const express = require('express'),
     es6Renderer = require('express-es6-template-engine');
